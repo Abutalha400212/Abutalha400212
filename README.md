@@ -7,10 +7,11 @@
  <a href="https://twitter.com/Abu_Talha2020" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
-👋 Hi, I’m Abu Talha
+- 👋 Hi, I’m Abu Talha
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning React JS
 - ⚡ Fun fact: I love to Explore the world
+- 📝 you look like my [Resume](https://drive.google.com/file/d/1vManoFk1BpwPcgVdHgCVaZci1l3A52zL/view?usp=share_link)
 <div><img src="https://cdn-icons-png.flaticon.com/512/807/807303.png" width="20" height="20"/> Languages and Tools</div>
 <div style="margin-bottom: 30px;" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,7 +31,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abutalha400212&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abutalha400212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+
