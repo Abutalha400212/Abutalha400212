@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React JS
 - ⚡ Fun fact: I love to Explore the world
 <div><img src="https://cdn-icons-png.flaticon.com/512/807/807303.png" width="20" height="20"/> Languages and Tools</div>
-<div>
+<div style="margin-bottom: 30px;" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<!---
-Abutalha400212/Abutalha400212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abutalha400212&show_icons=true)
+
