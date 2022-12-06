@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center" id="badges">
- <a href="https://www.linkedin.com/in/abu-talha-4b8b50170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ <a href="https://www.linkedin.com/in/abutalha2022/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://www.facebook.com/MissileMan47" target="_blank"><img src="https://img.shields.io/badge/facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/></a>
  <a href="https://twitter.com/Abu_Talha2020" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
@@ -11,7 +11,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning React JS
 - ⚡ Fun fact: I love to Explore the world
-- 📝 you look like my [Resume](https://drive.google.com/file/d/1vManoFk1BpwPcgVdHgCVaZci1l3A52zL/view?usp=share_link)
+- 📝 you look like my [Resume](https://drive.google.com/file/d/1AHaid7wcWsgg3sK4VECtJgKrIilNP9ut/view?usp=share_link)
 
 🛠 **Languages and Tools**
 <div style="margin-bottom: 30px;" >
