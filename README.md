@@ -11,7 +11,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning React JS
 - ⚡ Fun fact: I love to Explore the world
-- 📝 you look like my [Resume](https://drive.google.com/file/d/1AHaid7wcWsgg3sK4VECtJgKrIilNP9ut/view?usp=share_link)
+- 📝 you look like my [Resume](https://drive.google.com/file/d/1AHaid7wcWsgg3sK4VECtJgKrIilNP9ut/view?usp=sharing)
 
 🛠 **Languages and Tools**
 <div style="margin-bottom: 30px;" >
