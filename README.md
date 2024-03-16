@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-   <a href="https://personal-portfolio-n9v7.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/></a>
+   <a href="https://abutalha-official.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/></a>
 </div>
 
 
@@ -32,9 +32,9 @@
 
 👩‍💻 I'm currently working on Web Development.
 
-🧠 I'm currently learning about Next JS with Typecript.
+🧠 I'm currently learning about Next JS with Typescript.
 
-👯‍♀️ I'm looking forward to collaborate.
+👯‍♀️ I'm looking forward to collaborating.
 
 🤔 I'm looking for help with web development.
 
